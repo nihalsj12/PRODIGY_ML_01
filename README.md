@@ -1,3 +1,2 @@
 # PRODIGY_ML_01
-Prédiction des Prix des Maisons avec la Régression Linéaire
-Ce projet vise à créer un modèle de régression linéaire qui anticipe le coût des habitations en se basant sur leurs principales spécificités, comme la superficie (en pieds carrés), le nombre de chambres et les salles d'eau. L'objectif de ce modèle est d'examiner le lien entre ces facteurs explicatifs et le coût des habitations, tout en offrant des estimations exactes fondées sur les informations fournies.
+Price Prediction for Houses Using Linear Regression This project aims to develop a linear regression model that predicts the cost of homes based on their primary characteristics, such as the number of rooms, the number of bathrooms, and the surface area (in square feet). This model's goal is to investigate the relationship between these explanatory factors and housing costs while providing precise estimates based on the information supplied.
